@@ -1,7 +1,7 @@
 {
-    "name": "coffee-shop-api",
+    "name": "Bot-Battlr-api",
     "version": "1.0.0",
-    "description": "A simple JSON API for a coffee shop",
+    "description": "A simple JSON API for Bot-Battlr",
     "main": "db.json",
     "scripts": {
       "start": "json-server --watch db.json --host 0.0.0.0 --port $PORT"
